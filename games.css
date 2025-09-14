@@ -1,0 +1,9 @@
+img {
+    with: 200px;
+}
+body {
+  text-align: left;
+  font-family: 'Comfortaa';
+  background: rgba(0, 0, 0, 0.901);
+  color: rgb(10, 185, 238);
+}
